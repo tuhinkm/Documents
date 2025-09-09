@@ -248,7 +248,7 @@
           <mxGeometry x="983" y="1839.5" width="6" height="10" as="geometry" />
         </mxCell>
         <mxCell id="DvH0oKD77Us_AZ8ZDjh3-16" value="&lt;h5&gt;&lt;font style=&quot;color: rgb(51, 51, 51); font-size: 11px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Waste Reduction&lt;/b&gt;&lt;/font&gt;&lt;/h5&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="995" y="1832.5" width="90" height="24" as="geometry" />
+          <mxGeometry x="997" y="1832.5" width="106" height="24" as="geometry" />
         </mxCell>
         <mxCell id="DvH0oKD77Us_AZ8ZDjh3-17" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Pjm44x9L5e39kdIj_LCA-48" target="DvH0oKD77Us_AZ8ZDjh3-8" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -435,6 +435,12 @@
         </mxCell>
         <mxCell id="deV8MRW3wUbPBK9NanSd-8" value="&lt;h5&gt;&lt;font style=&quot;color: rgb(51, 51, 51); font-size: 11px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Cost Savings&lt;/b&gt;&lt;/font&gt;&lt;/h5&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="995" y="1875.5" width="90" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="deV8MRW3wUbPBK9NanSd-9" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="deV8MRW3wUbPBK9NanSd-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="823" y="1695" as="sourcePoint" />
+            <mxPoint x="1020" y="1848" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
