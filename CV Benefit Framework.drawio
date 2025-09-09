@@ -13,7 +13,7 @@
         <mxCell id="Pjm44x9L5e39kdIj_LCA-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#287ce0, #008F00);strokeWidth=3;" parent="Pjm44x9L5e39kdIj_LCA-7" vertex="1">
           <mxGeometry width="144" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="Pjm44x9L5e39kdIj_LCA-3" value="&lt;h4&gt;&lt;font style=&quot;color: rgb(51, 51, 51);&quot;&gt;&lt;b&gt;Process Efficiency&lt;/b&gt;&lt;/font&gt;&lt;/h4&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Pjm44x9L5e39kdIj_LCA-7" vertex="1">
+        <mxCell id="Pjm44x9L5e39kdIj_LCA-3" value="&lt;h4&gt;&lt;font style=&quot;color: rgb(51, 51, 51);&quot;&gt;&lt;b&gt;Cost Reduction&lt;/b&gt;&lt;/font&gt;&lt;/h4&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Pjm44x9L5e39kdIj_LCA-7" vertex="1">
           <mxGeometry x="10" y="5.5" width="125.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Pjm44x9L5e39kdIj_LCA-8" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -22,7 +22,7 @@
         <mxCell id="Pjm44x9L5e39kdIj_LCA-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#287ce0, #008F00);strokeWidth=3;" parent="Pjm44x9L5e39kdIj_LCA-8" vertex="1">
           <mxGeometry width="144" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="Pjm44x9L5e39kdIj_LCA-6" value="&lt;h4&gt;&lt;font style=&quot;color: rgb(51, 51, 51);&quot;&gt;&lt;b style=&quot;&quot;&gt;Quality Measure&lt;/b&gt;&lt;/font&gt;&lt;/h4&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Pjm44x9L5e39kdIj_LCA-8" vertex="1">
+        <mxCell id="Pjm44x9L5e39kdIj_LCA-6" value="&lt;h4&gt;&lt;font style=&quot;color: rgb(51, 51, 51);&quot;&gt;&lt;b style=&quot;&quot;&gt;Productivity Improvement&lt;/b&gt;&lt;/font&gt;&lt;/h4&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Pjm44x9L5e39kdIj_LCA-8" vertex="1">
           <mxGeometry x="15.5" y="5.5" width="113" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Pjm44x9L5e39kdIj_LCA-12" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -31,7 +31,7 @@
         <mxCell id="Pjm44x9L5e39kdIj_LCA-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#287ce0, #008F00);strokeWidth=3;" parent="Pjm44x9L5e39kdIj_LCA-12" vertex="1">
           <mxGeometry width="144" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="Pjm44x9L5e39kdIj_LCA-14" value="&lt;h4&gt;&lt;font style=&quot;color: rgb(51, 51, 51);&quot;&gt;&lt;b style=&quot;&quot;&gt;Cost Save&lt;/b&gt;&lt;/font&gt;&lt;/h4&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Pjm44x9L5e39kdIj_LCA-12" vertex="1">
+        <mxCell id="Pjm44x9L5e39kdIj_LCA-14" value="&lt;h4&gt;&lt;font style=&quot;color: rgb(51, 51, 51);&quot;&gt;&lt;b style=&quot;&quot;&gt;Revenue Increment&lt;/b&gt;&lt;/font&gt;&lt;/h4&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Pjm44x9L5e39kdIj_LCA-12" vertex="1">
           <mxGeometry x="15.5" y="5.5" width="113" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Pjm44x9L5e39kdIj_LCA-15" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -40,7 +40,7 @@
         <mxCell id="Pjm44x9L5e39kdIj_LCA-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#007FFF,#008F00);strokeWidth=3;" parent="Pjm44x9L5e39kdIj_LCA-15" vertex="1">
           <mxGeometry width="144" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="Pjm44x9L5e39kdIj_LCA-17" value="&lt;h4&gt;&lt;font style=&quot;color: rgb(51, 51, 51);&quot;&gt;&lt;b style=&quot;&quot;&gt;Revenue Uplift&lt;/b&gt;&lt;/font&gt;&lt;/h4&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Pjm44x9L5e39kdIj_LCA-15" vertex="1">
+        <mxCell id="Pjm44x9L5e39kdIj_LCA-17" value="&lt;h4&gt;&lt;font style=&quot;color: rgb(51, 51, 51);&quot;&gt;&lt;b style=&quot;&quot;&gt;Customer Exp. Improvement&lt;/b&gt;&lt;/font&gt;&lt;/h4&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Pjm44x9L5e39kdIj_LCA-15" vertex="1">
           <mxGeometry x="15.5" y="5.5" width="113" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Pjm44x9L5e39kdIj_LCA-18" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" parent="1" vertex="1">
@@ -49,7 +49,7 @@
         <mxCell id="Pjm44x9L5e39kdIj_LCA-20" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;direction=west;" parent="1" vertex="1">
           <mxGeometry x="276" y="1595" width="13" height="291" as="geometry" />
         </mxCell>
-        <mxCell id="Pjm44x9L5e39kdIj_LCA-22" value="&lt;b&gt;Objective of GenAI&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=4" parent="1" vertex="1">
+        <mxCell id="Pjm44x9L5e39kdIj_LCA-22" value="&lt;b&gt;Objective of CV&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=4" parent="1" vertex="1">
           <mxGeometry x="83" y="1554" width="208" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Pjm44x9L5e39kdIj_LCA-23" value="&lt;h4&gt;&lt;font style=&quot;color: rgb(51, 51, 51);&quot;&gt;&lt;b&gt;Direct Benefits&lt;/b&gt;&lt;/font&gt;&lt;/h4&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
@@ -67,13 +67,13 @@
         <mxCell id="Pjm44x9L5e39kdIj_LCA-75" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Pjm44x9L5e39kdIj_LCA-27" target="Pjm44x9L5e39kdIj_LCA-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Pjm44x9L5e39kdIj_LCA-27" value="&lt;h5&gt;&lt;font style=&quot;color: rgb(51, 51, 51); font-size: 11px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Cost Savings&lt;/b&gt;&lt;/font&gt;&lt;/h5&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="Pjm44x9L5e39kdIj_LCA-27" value="&lt;h5&gt;&lt;font style=&quot;color: rgb(51, 51, 51); font-size: 11px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Reduce Waste&lt;/b&gt;&lt;/font&gt;&lt;/h5&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="452" y="1625" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Pjm44x9L5e39kdIj_LCA-28" value="&lt;h5&gt;&lt;font style=&quot;color: rgb(51, 51, 51); font-size: 11px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Revenue Uplift&lt;/b&gt;&lt;/font&gt;&lt;/h5&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="449" y="1660" width="96" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Pjm44x9L5e39kdIj_LCA-29" value="&lt;h5&gt;&lt;font style=&quot;color: rgb(51, 51, 51); font-size: 11px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Productivity Gain&lt;/b&gt;&lt;/font&gt;&lt;/h5&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="Pjm44x9L5e39kdIj_LCA-29" value="&lt;h5&gt;&lt;font style=&quot;color: rgb(51, 51, 51); font-size: 11px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Reduce Cost&lt;/b&gt;&lt;/font&gt;&lt;/h5&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="445" y="1695" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Pjm44x9L5e39kdIj_LCA-30" value="&lt;h4&gt;&lt;font style=&quot;color: rgb(51, 51, 51);&quot;&gt;&lt;b&gt;Indirect Benefits&lt;/b&gt;&lt;/font&gt;&lt;/h4&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
@@ -85,16 +85,16 @@
         <mxCell id="Pjm44x9L5e39kdIj_LCA-32" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;direction=west;" parent="1" vertex="1">
           <mxGeometry x="574" y="1769" width="13" height="188" as="geometry" />
         </mxCell>
-        <mxCell id="Pjm44x9L5e39kdIj_LCA-33" value="&lt;h5&gt;&lt;font style=&quot;color: rgb(51, 51, 51); font-size: 11px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Employee Satisfaction&lt;/b&gt;&lt;/font&gt;&lt;/h5&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="Pjm44x9L5e39kdIj_LCA-33" value="&lt;h5&gt;&lt;font style=&quot;color: rgb(51, 51, 51); font-size: 11px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Automation Gain&lt;/b&gt;&lt;/font&gt;&lt;/h5&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="425" y="1797" width="139" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Pjm44x9L5e39kdIj_LCA-34" value="&lt;h5&gt;&lt;font style=&quot;color: rgb(51, 51, 51); font-size: 11px;&quot;&gt;&lt;b&gt;Customer Exp. Score&lt;/b&gt;&lt;/font&gt;&lt;/h5&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="Pjm44x9L5e39kdIj_LCA-34" value="&lt;h5&gt;&lt;font style=&quot;color: rgb(51, 51, 51); font-size: 11px;&quot;&gt;&lt;b&gt;Manual Intervention&lt;/b&gt;&lt;/font&gt;&lt;/h5&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="425" y="1839" width="139" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Pjm44x9L5e39kdIj_LCA-35" value="&lt;h5&gt;&lt;font style=&quot;color: rgb(51, 51, 51); font-size: 11px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Innovation Velocity&lt;/b&gt;&lt;/font&gt;&lt;/h5&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="434" y="1882" width="121" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Pjm44x9L5e39kdIj_LCA-38" value="&lt;h5&gt;&lt;font style=&quot;color: rgb(51, 51, 51); font-size: 11px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Agility Improvement&lt;/b&gt;&lt;/font&gt;&lt;/h5&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="Pjm44x9L5e39kdIj_LCA-38" value="&lt;h5&gt;&lt;font style=&quot;color: rgb(51, 51, 51); font-size: 11px;&quot;&gt;&lt;b style=&quot;&quot;&gt;CSAT Improvement&lt;/b&gt;&lt;/font&gt;&lt;/h5&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="433" y="1924" width="127" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Pjm44x9L5e39kdIj_LCA-40" value="&lt;b&gt;Success Measurement&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=4" parent="1" vertex="1">
@@ -475,8 +475,8 @@
         <mxCell id="DvH0oKD77Us_AZ8ZDjh3-61" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.51;dx=26.29;notch=0;fillColor=#66B2FF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="320" y="1718" width="46" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="DvH0oKD77Us_AZ8ZDjh3-63" value="&lt;h1&gt;&lt;b&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;&lt;u&gt;CV Benefit Measurement Framework&lt;/u&gt;&lt;/font&gt;&lt;/b&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="711" y="1477" width="658" height="30" as="geometry" />
+        <mxCell id="DvH0oKD77Us_AZ8ZDjh3-63" value="&lt;h1&gt;&lt;b&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;&lt;u&gt;Computer Vision Benefit Measurement Framework&lt;/u&gt;&lt;/font&gt;&lt;/b&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="578" y="1477" width="793" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
